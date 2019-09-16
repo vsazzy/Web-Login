@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a8c0ff" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#4d7cfe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.016" y1="0.383" x2="1.618" y2="0.578" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-login_background">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="login_background" data-name="login background" clip-path="url(#clip-login_background)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(0 10)">
+      <path id="Path_2" data-name="Path 2" d="M-335.309,1054.968s-254.342,220.939,58.038-82.519,385.353,13.309,513.8,13.309,290.189-151.729,390.9-95.829,180.941,141.082,249.221,133.1,141.942-101.768,242.393-133.1,113.581,26.005,288.482,95.829,418.213-141.082,418.213-141.082l27.312,428.568-629.88,111.8L169.961,1345.117l-428.455-93.167Z" transform="translate(368.262 58.319)" fill="url(#linear-gradient)"/>
+      <path id="Path_1" data-name="Path 1" d="M-342.632,967.895s-235.263,131.053,53.684-48.947,356.447,7.895,475.263,7.895,268.421-90,361.579-56.842,167.368,83.684,230.526,78.947,131.3-60.365,224.211-78.947,105.061,15.425,266.842,56.842,386.842-83.684,386.842-83.684l25.263,254.211-582.632,66.316L124.737,1140l-396.316-55.263Z" transform="translate(292 106)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
